@@ -22,15 +22,17 @@ cd ~/MagicMirror/modules
 git clone https://github.com/ASteinsdoerfer/MMM-Photovoltaik.git
 cd MMM-Photovoltaik
 npm install
+```
 
 ## 🔧 configuration
 Change in config.js
 
+```bash
 {
   module: "MMM-MMM-Photovoltaik",
   position: "middle_center"
  },
-
+```
 
 ## 🙌 Author
 ASteinsdoerfer
