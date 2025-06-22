@@ -1,0 +1,35 @@
+{
+  "name": "MMM-Photovoltaik",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module to open a local file and display the data from TXT file",
+  "main": "MMM-Photovoltaik.js",
+  "scripts": {
+    "start": "echo 'No start script. Run via MagicMirror.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASteinsdoerfer/MMM-Photovoltaik.git"
+  },
+  "author": "ASteinsdoerfer",
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "magicmirror2",
+    "module",
+    "template",
+    "TXT",
+    "file handling"
+  ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/ASteinsdoerfer/MMM-Photovoltaik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ASteinsdoerfer/MMM-Photovoltaik/issues"
+  },
+  "images": {
+  "screenshot": "https://github.com/ASteinsdoerfer/MMM-Photovoltaik/raw/main/screenshot.png"
+ }
+  "homepage": "https://github.com/ASteinsdoerfer/MMM-Photovoltaik"
+}
+
